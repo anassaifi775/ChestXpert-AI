@@ -203,16 +203,6 @@ Evaluation notebooks are provided in the `notebooks/` directory.
 
 ---
 
-## 🖼️ Demo Screenshots
-
-> *(Add images inside the `screenshots/` folder)*
-
-```markdown
-![UI](screenshots/ui.png)
-![Generated Report](screenshots/results.png)
-![Chatbot](screenshots/chatbot.png)
-```
-
 ---
 
 ## ⚠️ Disclaimer
