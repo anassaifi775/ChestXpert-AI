@@ -3,8 +3,6 @@
 
 ## 📌 Overview
 ChestXpert-AI is a deep learning project focused on training and evaluating models for automated disease detection from chest X-ray images.  
-This repository contains the **training pipeline**, including data preprocessing, model training, evaluation, and checkpointing.
-
 ---
 
 ## Training Configuration
