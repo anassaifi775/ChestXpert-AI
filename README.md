@@ -88,7 +88,6 @@ model = BlipForConditionalGeneration.from_pretrained("anassaifi8912/chestxray-bl
 
 ---
 
-![Initialization](images/chatbot.png)
 
 ### 2️⃣ Chatbot Model (Clinical Q&A)
 
@@ -100,6 +99,10 @@ model = BlipForConditionalGeneration.from_pretrained("anassaifi8912/chestxray-bl
   * Support conversational medical queries
 
 The chatbot is integrated with the generated report to ensure **context-aware responses**.
+
+## Chatbot
+
+![Initialization](images/chatbot.png)
 
 ---
 
