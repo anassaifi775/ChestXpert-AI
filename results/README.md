@@ -19,6 +19,10 @@ It includes quantitative metrics, qualitative visualizations, and key insights d
 
 ---
 
+## Test Results
+
+![test_results](Test_Results.png)
+
 ## 📈 Quantitative Results
 
 ### 🔢 Overall Performance Metrics
@@ -126,3 +130,4 @@ Data Science | Machine Learning
 
 ## ⚠️ Disclaimer
 This project is for **research and educational purposes only** and must not be used as a medical diagnostic tool.
+
