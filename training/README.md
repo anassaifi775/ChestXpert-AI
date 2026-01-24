@@ -7,16 +7,15 @@ This repository contains the **training pipeline**, including data preprocessing
 
 ---
 
-## 🧠 Model Training Pipeline
-The training workflow includes:
-1. Dataset preparation & preprocessing
-2. Model initialization
-3. Training with checkpoint saving
-4. Validation & performance monitoring
-5. Loss and metric visualization
+## Training Configuration
+
+![Train_config](Config_Training.png)
 
 ---
 
+## Training Progress
+
+![Training_prog](Training.png)
 
 ## ⚙️ Environment Setup
 
