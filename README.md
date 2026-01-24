@@ -142,37 +142,6 @@ Generated Medical Report
 
 ---
 
-## 🖥️ Application Structure
-
-```
-ChestXpert-AI/
-│
-├── app.py
-├── requirements.txt
-│
-├── notebooks/
-│   ├── model-testing.ipynb
-│   ├── model-training.ipynb
-│
-├── app/
-│   ├── templates/
-│   └── static/
-│
-├── model/
-│   └── README.md
-│
-├── dataset/
-│   └── README.md
-│
-├── screenshots/
-│   ├── ui.png
-│   ├── results.png
-│   └── chatbot.png
-│
-└── results/
-    └── metrics.json
-```
-
 ---
 
 ## 🚀 Installation & Usage
