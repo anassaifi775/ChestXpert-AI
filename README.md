@@ -5,6 +5,21 @@
 
 ---
 
+## User Interface: Light Mode
+![Interface Screenshot (Light Mode)](images/UI.png)
+
+## User Interface: Dark Mode
+![Interface Screenshot (Dark Mode)](images/Dark.png)
+
+## Generated Report
+![Report](images/report.png)
+
+## Notes For Medical Students
+![Notes](images/notes.png)
+
+## Zoom Functionality
+![Zoom Functionality](images/zoom.png)
+
 ## 🌟 Overview
 
 **ChestXpert-AI** is an end-to-end AI-powered application that automatically generates **radiology-style chest X-ray reports** and provides an **interactive medical chatbot** for clinical question answering.
@@ -72,6 +87,8 @@ model = BlipForConditionalGeneration.from_pretrained("anassaifi8912/chestxray-bl
 ```
 
 ---
+
+![Initialization](images/chatbot.png)
 
 ### 2️⃣ Chatbot Model (Clinical Q&A)
 
