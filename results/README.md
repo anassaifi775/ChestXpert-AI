@@ -69,7 +69,7 @@ All metrics are computed on a **strictly unseen test dataset**, separate from tr
 | Image | "Pulmonary mass identified..." | "PA chest radiograph shows pulmonary mass..." |
 | Image | "No acute cardiopulmonary abnormality" | "Normal chest radiograph..." |
 
-*(Screenshots and full examples available in `/results/screenshots`)*
+
 
 ---
 
@@ -114,3 +114,4 @@ AI / Data Science
 ---
 
 ⭐ *If these results helped you, consider starring the repository!*
+
